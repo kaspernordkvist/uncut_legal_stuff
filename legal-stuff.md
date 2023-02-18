@@ -1,34 +1,39 @@
-Last updated 4 February 2023
+The below "Privacy Policy" and "Terms of Use" may change from time to time and any changes will be reflected on this page. If the changes are significant, we will provide a more prominent notice. All changes made to this page are be tracked [on Github](https://github.com/kaspernordkvist/uncut_legal_stuff).
 
-# Privacy and Cookies
+If you have any question or concerns about this the content of this page, please send an <span class="js-copyEmail t--link">email</span>.
 
-Here at UNCUT.wtf, your privacy is taken extremely serious — which is why Google Analytics is used to track you when using this site.
+[Privacy Policy](#privacy-policy)
+<br>[Terms of Use](#terms-of-use)
 
-Information about your device is collected automatically, including the web browser and operating system that you use, your time zone, what websites or search terms referred you to this site, if any, and your IP address. Additionally, as you browse this site, we collect information about the individual web pages that you view and how you interact with this site. We may aggregate your information with similar data collected from other visitors to help us improve our website.
+---
 
-Non-personally identifiable information is collected, using the following technologies:
+# Privacy Policy
+*Last updated: 18 February 2023*
 
-*   Cookies
-    Data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit [allaboutcookies.org](http://allaboutcookies.org/)
-*   Log files
-    Track actions occurring on this site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps
-*   Web beacons, tags, and pixels
-    Electronic files used to record information about how you browse this site
+In short, Google Analytics tracks website statistics, while Cloudflare serves the website. They both collect information about you. We, of course, don’t share or sell any of this information.
 
-We share your information with third parties to help us use your information, as described above. We use Google Analytics to help us understand how this site is used. You can read more about how Google uses your information [here](https://google.com/intl/en/policies/privacy/). You can also opt-out of Google Analytics [here](https://tools.google.com/dlpage/gaoptout).
+## Data collected and why
+Information about your device and browsing activity is collected for analytics and statistical purposes. This includes your web browser and operating system, your time zone, which web pages you visit, which website referred you to us, and your IP address. The following services are used:
 
-This site contains links to other websites. This privacy policy applies only to this site, so if you click on a link to another website, you should read their privacy policy.
+- Cloudflare<br>
+Content delivery network service. Thanks to them you can see the website. Read how Cloudflare uses your information [here](https://www.cloudflare.com/privacypolicy/)
 
-The Privacy Policy may change from time to time and any changes will be posted on this page, if the changes are significant, we will provide a more prominent notice.
+- Google Analytics<br>
+Website tracking. Data collected is used to improve the website. Read how Google uses your information [here](https://google.com/intl/en/policies/privacy/). You can also opt-out of Google Analytics [here](https://tools.google.com/dlpage/gaoptout)
 
-* * *
+## Cookies
+Cookies are data files, and often include an anonymous unique identifier, that are placed on your device. For details about cookies and how to disable them, visit [All About Cookies](http://allaboutcookies.org/).
 
-Last updated 4 February 2023
+## When you write
+If you send us an email with a font submission, question, or something similar, we will keep that the correspondence and your email address. This is done to maintain a record of previous interactions, which we can refer to if you contact us again in the future.
 
-# Terms
+---
 
-UNCUT.wtf takes no responsibility when it comes to the licensing or terms of use of the fonts featured on this site. The ambition is to keep everything up to date, however, there might be inaccuracies, silly mistakes, or changes made by the font owner. Yes, it’s a pain, but please ensure that the font license fits your needs. If in doubt, reach out to the font owner.
+# Terms of Use
+*Last updated: 18 February 2023*
 
-If a font featured on this site harms you or anything/anyone else in any way, again, UNCUT.wtf takes no responsibility, and when using this site you agree that UNCUT.wtf is not liable for anything. However, if you find a font on this site and it makes you happy, UNCUT.wtf takes full responsibility.
+We do not guarantee the accuracy or authenticity of any content, and we are not liable for any actions you take before/during/after using this website. The ambition is to keep everything up-to-date, however, there might be inaccuracies, typos, or other silly mistakes. We don't know what it could be, but if something bad happens on this website, or as a result of using it, you acknowledge and assume all risks.
 
-Just as the above Privacy section, which you of course have read, the Terms may change from time to time and any changes will be posted on this page, if the changes are significant, we will provide a more prominent notice.
+However, any good things that happen to you after using this website, we would like to take full responsibility for. Of course, we know that this second paragraph might not hold up in court.
+
+If you have any issues or questions about any of the fonts featured on this website, including licensing, please reach out to the person(s) who created the font. When contacting them, please remember to thank them for their work.
