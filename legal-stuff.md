@@ -14,18 +14,18 @@ If you have any questions or concerns about the content of this page, please sen
 ---
 
 ## Privacy Policy
-*Last updated: 20 February 2023*
+*Last updated: 21 February 2023*
 
-In short, Google Analytics tracks website traffic, while Cloudflare serves this website. They both collect information about you. We, of course, don’t share or sell any of this information. We never have and never will.
+In short, Cloudflare Web Analytics tracks website traffic, while Cloudflare CDN serves this website. They both collect information about you. We, of course, don’t share or sell any of this information. We never have and never will.
 
 ### Data collected and why
 Information about your device and browsing activity is collected for analytics and statistical purposes. This includes your web browser and operating system, your time zone, which web pages you visit, which website referred you to us, and your IP address. Data collected is also used to improve this website. The following services are used:
 
-- Cloudflare<br>
+- Cloudflare CDN<br>
 Content delivery network service used to deliver this website super fast. Read what data Cloudflare collects and how they use it [here](https://www.cloudflare.com/privacypolicy/)
 
-- Google Analytics<br>
-Web analytics service used to track and report on visitors, traffic, and interactions on this website. Read what data Google collects and how they use it [here](https://policies.google.com/technologies/partner-sites). You can also opt out of Google Analytics [here](https://tools.google.com/dlpage/gaoptout)
+- Cloudflare Web Analytics<br>
+Web analytics service used to track and report on visitors, traffic, and interactions on this website. Read what data Cloudflare collects and how they use it [here](https://www.cloudflare.com/privacypolicy/)
 
 ### Cookies
 Cookies are data files, and often include an anonymous unique identifier, that is placed on your device. For details about cookies and how to disable them, visit [All About Cookies](http://allaboutcookies.org/).
