@@ -27,8 +27,8 @@ Content delivery network service used to deliver this website super fast. Read w
 - Cloudflare Web Analytics<br>
 Web analytics service used to track and report on visitors, traffic, and interactions on this website. Read what data Cloudflare collects and how they use it [here](https://www.cloudflare.com/privacypolicy/)
 
-### Cookies
-Cookies are data files, and often include an anonymous unique identifier, that is placed on your device. For details about cookies and how to disable them, visit [All About Cookies](http://allaboutcookies.org/).
+### Web beacons
+The web beacon used on this site is a JavaScript snippet embedded on this web page and used to monitor traffic and performance. For details about web beacons and how to disable them, visit [All About Cookies](http://allaboutcookies.org/).
 
 ### When you write
 If you send us an email with a font submission, question, or something similar, we will keep the correspondence and your email address. This is done to maintain a record of previous interactions, which we can refer to if you contact us again in the future.
