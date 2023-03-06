@@ -14,12 +14,14 @@ If you have any questions or concerns about the content of this page, please sen
 ---
 
 ## Privacy Policy
-*Last updated: 21 February 2023*
+*Last updated: 6 March 2023*
 
 In short, Cloudflare Web Analytics tracks website traffic, while Cloudflare CDN serves this website. They both collect information about you. We, of course, don’t share or sell any of this information. We never have and never will.
 
 ### Data collected and why
-Information about your device and browsing activity is collected for analytics and statistical purposes. This includes your web browser and operating system, your time zone, which web pages you visit, which website referred you to us, and your IP address. Data collected is also used to improve this website. The following services are used:
+Information about your device and browsing activity is collected: website visits, page views, page-load performance metrics, link-referrer domain, the name of your browser and operating system, and what country you’re visiting the website from. That’s it.
+
+None of your data, including your IP address and User Agent string, is “fingerprinted” so nobody knows who you are. Data collected is used analytics and statistical purposes and to improve this website. The following services are used:
 
 - Cloudflare CDN<br>
 Content delivery network service used to deliver this website super fast. Read what data Cloudflare collects and how they use it [here](https://www.cloudflare.com/privacypolicy/)
@@ -28,7 +30,7 @@ Content delivery network service used to deliver this website super fast. Read w
 Web analytics service used to track and report on visitors, traffic, and interactions on this website. Read what data Cloudflare collects and how they use it [here](https://www.cloudflare.com/privacypolicy/)
 
 ### Web beacons
-The web beacon used on this site is a JavaScript snippet embedded on this web page and used to monitor traffic and performance. For details about web beacons and how to disable them, visit [All About Cookies](http://allaboutcookies.org/).
+The web beacon used on this website is a JavaScript snippet embedded on this web page and used to monitor traffic and performance. For details about web beacons and how to disable them, visit [All About Cookies](https://allaboutcookies.org/what-is-a-web-beacon/).
 
 ### When you write
 If you send us an email with a font submission, question, or something similar, we will keep the correspondence and your email address. This is done to maintain a record of previous interactions, which we can refer to if you contact us again in the future.
